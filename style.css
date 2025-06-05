@@ -1,0 +1,47 @@
+/* .navbar {
+  background-color: #00A8E8; /* atau #007EA7 */
+  color: #FDFDFD;
+  padding: 1rem 2rem;
+}
+
+.navbar a {
+  color: #FDFDFD;
+  text-decoration: none;
+  margin-right: 1.5rem;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #FFD164; /* Aksen kuning pasir */
+}
+
+.hero-section {
+  height: 100vh;
+  background-image: url('img/bg1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.1); /* gelap transparan */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-text {
+  text-align: center;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1.6;
+  padding: 0 20px;
+  max-width: 800px;
+} */
